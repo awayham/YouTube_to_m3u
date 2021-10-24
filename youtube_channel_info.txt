@@ -1,19 +1,19 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Baby Bus | kinder | |
+Baby Bus | kinder | https://i.ytimg.com/an_webp/7ZYKv8_iaOA/mqdefault_6s.webp?du=3000&sqp=CIDw1IsG&rs=AOn4CLA1LeqygjUGc2sCt6XmrHJh4sakLA |
 https://youtu.be/HcJQedx4QuM
 
-Bob der Cartoon | Kinder |  |
+Bob der Cartoon | Kinder | https://i.ytimg.com/an_webp/gO4iOpI0QUE/mqdefault_6s.webp?du=3000&sqp=CJ7t1IsG&rs=AOn4CLDUnelnUoNNAucEY58NDcW5suhTBQ |
 https://youtu.be/HBnUkALDxd0
 
-Boba | Kinder |  |
+Boba | Kinder | https://i.ytimg.com/an_webp/UWKDWwLG3gc/mqdefault_6s.webp?du=3000&sqp=CPa71IsG&rs=AOn4CLDknEWdAqtC6lXHlFCHJS0xOqVjwA |
 https://youtu.be/pEXul-vjJPI
 
-CoComelon Songs For Kids | Kinder |  |
+CoComelon Songs For Kids | Kinder | https://i.ytimg.com/an_webp/qXcMNBQnQMM/mqdefault_6s.webp?du=3000&sqp=CKL01IsG&rs=AOn4CLCkZwh_dyoMWwOJmUZNKDWLTf-dRg |
 https://youtu.be/NXFR5Tx0D40
 
-أغاني الروضة | Kinder |  |
+أغاني الروضة | Kinder | https://i.ytimg.com/vi/g4Zzp46Ax6s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXyh3T8u7MvSK3PLhZC0aP8G85Ig |
 https://youtu.be/g4Zzp46Ax6s
 
 ماشا والدب | Kinder | https://i.ytimg.com/vi/nTyD8YP8EVA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcUvd-wX6dZZ2AGxp5RzdyhH8QjQ |
