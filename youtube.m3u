@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Kinder" tvg-logo="https://i.ytimg.com/an_webp/7ZYKv8_iaOA/mqdefault_6s.webp?du=3000&sqp=CIDw1IsG&rs=AOn4CLA1LeqygjUGc2sCt6XmrHJh4sakLA" tvg-id="", Baby Bus
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645857804/ei/q3cZYo6sPITAkwaRs7j4CA/ip/20.125.115.101/id/HcJQedx4QuM.1/source/yt_live_broadcast/requiressl/yes/tx/24177078/txs/24177077%2C24177078/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOoXsya_DxJwRzZSV5owfH7I9pKnnA0WRVhrtgl1mSUtAiEAj0WGaaZ7_vVdp31NqehcWuS_68IQ_WSdxOhgcOD-1y0%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645866722/ei/gpoZYpawKMbKkgb4obyoDg/ip/20.118.164.174/id/HcJQedx4QuM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPtK9hK2mpkQcrJx4cr_EDhEqwkv3IKCWt0CuDvl7FFMAiEAwYBf2DbKZO3DKwMOyuxfb4_4A2TAt4aUJCkGOYduXC8%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kinder" tvg-logo="https://i.ytimg.com/an_webp/gO4iOpI0QUE/mqdefault_6s.webp?du=3000&sqp=CJ7t1IsG&rs=AOn4CLDUnelnUoNNAucEY58NDcW5suhTBQ" tvg-id="", Bob der Cartoon
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
