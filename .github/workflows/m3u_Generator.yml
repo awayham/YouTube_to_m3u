@@ -34,7 +34,7 @@ jobs:
       - name: config
         run: |
           git config --global user.email "xx@gmail.com"
-          git config --global user.name "awayham"
+          git config --global user.name "xx"
       
       
       - name: Main
